@@ -1,23 +1,20 @@
 var x =0;
 var y =200;
 var diameter=50;
-var r =218;
-var g= 160;
-var b=221;
+
+var r =298;
+var g= 170;
+var b=211;
 
 
 function setup() {
-    createCanvas(400, 400);
-  }
-  
+  createCanvas(600, 400);
+}
+
 function draw() {
-  fill(200, 200, 200);
-  ellipse(circle.x, circle.y, circle.diamator,circle)
-    
-    
-  x=x+1;
+  background(r,g,b);
+  fill(200, 200, 180);
+  ellipse(x,y, diameter,diameter);
   
-    
-  
-  
+  x = x + 1;
 }
