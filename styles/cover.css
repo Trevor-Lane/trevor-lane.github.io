@@ -16,7 +16,7 @@ a:hover {
   color: #333;
   text-shadow: none; /* Prevent inheritance from `body` */
   background-color: rgb(122, 0, 126);
-  border: .05rem solid rgb(255, 0, 149);
+  border: .05rem solid rgb(153, 0, 89);
 }
 
 
@@ -27,7 +27,7 @@ a:hover {
 html,
 body {
   
-  background-color:rgb(49, 115, 185);
+  background-color:rgb(99, 174, 253);
   
 }
 
@@ -35,8 +35,8 @@ body {
   display: -ms-flexbox;
   display: flex;
   color: rgba(0, 0, 0, 0.801);
-  text-shadow: 0 .2rem .9rem rgb(255, 0, 212);
-  box-shadow: inset .1rem .15rem 5rem rgb(255, 67, 130);
+  text-shadow: 0 .2rem .9rem rgb(0, 0, 0);
+  box-shadow: inset .1rem .15rem 5rem rgb(179, 35, 83);
 }
 
 .cover-container {
