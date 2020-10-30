@@ -1,6 +1,6 @@
 function setup() {
     createCanvas(710, 400);
-    background(163,100,200)
+    background(255,255,255)
     input = createInput();
     
     button = createButton('CLICK ME ;)');
